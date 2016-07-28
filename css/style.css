@@ -1,6 +1,9 @@
 .main_container {
   width: 1366px;
   height: 768px;
+  position: absolute;
+  left: 0;
+  margin-left: auto;
 }
 
 .main_block{
