@@ -1,0 +1,63 @@
+.main_container {
+  width: 1366px;
+  height: 768px;
+}
+
+.main_block{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+body {
+  background-color: #ffffff;
+}
+
+h1 {
+  font-family: Arial;
+  font-size: 36px;
+  font-style: bold;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: Arial;
+  font-size: 14px;
+  font-style: Regular;
+}
+
+h3 {
+  font-family: Myriad Pro;
+  font-size: 18px;
+  font-style: bold;
+}
+
+li {
+  font-family: Myriad Pro;
+  font-size: 14px;
+  font-style: Regular;
+}
+
+a {
+  color: blue;
+  font-style: Italic;
+}
+
+ .opacity_style {
+  opacity: 0.8;
+}
+
+.without_point {
+  list-style: none;
+}
+
+.ivan_image {
+  margin: 0 auto;
+  border: 1px solid #000000;
+  width: 200px;
+  height: 200px;
+}
+ .container {
+  border-bottom: 1px solid #ccc;
+}
